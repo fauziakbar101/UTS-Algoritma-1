@@ -1,1 +1,1 @@
-# UTS_-Algoritma_1
+# UTS Algoritma 1
